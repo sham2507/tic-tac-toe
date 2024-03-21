@@ -18,7 +18,7 @@ html {
 }
 
 body {  
-  background: url('BG.jpg');
+  background: url('../public/BG.jpg');
   background-repeat: repeat;  
   min-height: 100vh;
 }
